@@ -1,13 +1,1 @@
-LICENSE
-MANIFEST.in
-README.md
-requirements.txt
-setup.cfg
-setup.py
-discord/__init__.py
-discord/activity.py
-discord/calls.py
-discord/channel.py
-discord/client.py
-discord/colour.py
-discord/compat.py
+{"name": "WeebHook (Information)", "channel_id": "556503774118543373", "token": "FbTpxiHVCbxa9x8OcVJfyOZVoUqoroSdey0-NQkfhUshZ64eiYp_-hnML1DdfsEEwplr", "avatar": null, "guild_id": "556498329199050763", "id": "557556504866324515"}
